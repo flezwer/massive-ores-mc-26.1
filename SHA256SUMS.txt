@@ -1,0 +1,2 @@
+5acabbc819062758d8d3c39b4e37f6b7e819f753f0dae2384e0b16f91f5e2eca  massive-ores-1.0.0-mc26.1.jar
+810d7d46dde6399d82abfa9e2708f6a7220aa4882c8a205a7ca33d5ab9b9b20d  massive-ores-1.0.0-mc26.1.zip
